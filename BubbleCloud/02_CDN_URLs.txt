@@ -1,0 +1,5 @@
+// Order matters when inserting CDN URLs into Kintone App settings
+
+https://www.amcharts.com/lib/4/core.js
+https://www.amcharts.com/lib/4/charts.js
+https://www.amcharts.com/lib/4/plugins/forceDirected.js
