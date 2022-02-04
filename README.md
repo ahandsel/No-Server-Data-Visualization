@@ -19,6 +19,10 @@ Feel free to use the code to inspire you to build out your AmCharts project usin
 
 ### Git Clone the Repo
 
+```sh
+git clone https://github.com/ahandsel/No-Server-Data-Visualization.git
+```
+
 ### Getting your FREE Kintone Database
 
 Step 1 - Sign Up for Kintone Developer Account (Website)
@@ -37,22 +41,36 @@ Quick video on the sign-up process
 ## Workshops in the Repo
 
 Bar Chart Race
-  * `./BarChartRace`
+  * Slides: [`./BarChartRace`](./BarChartRace/z_Slides.pdf)
   * [[ Preview ] Bar Chart Race Workshop - YouTube](https://youtu.be/7r6SohQbnxk)
   * [Build a Bar Chart Race Generator with Kintone & amCharts - YouTube](https://youtu.be/fHNj6MieBzw)
+  * [Bar Chart Race - amCharts](https://www.amcharts.com/demos/bar-chart-race/)
 
 Bubble Cloud
-  * `./BubbleCloud`
+  * Slides: [`./BubbleCloud`](./BubbleCloud/z_Slides.pdf)
   * [Build a Bubble Cloud Project - YouTube](https://www.youtube.com/watch?v=1RX-tDeUs24)
+  * [Force-Directed Tree - amCharts](https://www.amcharts.com/demos/force-directed-tree/)
 
 Color-Coded Map
-  * `./ColorCodedMap`
+  * Slides: [`./ColorCodedMap`](./ColorCodedMap/z_Slides.pdf)
   * [[ Preview ] Color-Coded Map Workshop - YouTube](https://www.youtube.com/watch?v=1iqep0N6nrg)
   * [Build a Color-Coded Map Generator with Kintone & amCharts - YouTube](https://www.youtube.com/watch?v=g7gHqr90_QY)
+  * [Map with Patterns - amCharts](https://www.amcharts.com/demos/map-with-patterns/)
+
+Pictorial Stacked Chart
+  * Slides: [`./PictorialStackedChart`](./PictorialStackedChart/z_Slides.pdf)
+  * [Build a Pictorial Stacked Chart Generator in 1 hr! amCharts x Kintone - YouTube](https://www.youtube.com/watch?v=DCr11kDLO1g&list=PL_Mf7E0DfF04Nn1JGoxmKg0NZpooFFyI2&index=8)
+  * [Pictorial Stacked Chart - amCharts](https://www.amcharts.com/demos/pictorial-stacked-chart/)
 
 Timeline
-  * `./Timeline`
+  * Slides: [`./Timeline`](./Timeline/z_Slides.pdf)
   * [Build a Timeline Generator with Kintone & amCharts - YouTube](https://www.youtube.com/watch?v=cK--Cz6MdPs)
+  * [Radar Timeline - amCharts](https://www.amcharts.com/demos/radar-timeline/)
+
+WordCloud
+  * Slides: [`./WordCloud`](./WordCloud/z_Slides.pdf)
+  * [Build a Word Cloud Generator in 1 hr! amCharts x Kintone - YouTube](https://www.youtube.com/watch?v=u2KLtJgbuUo&list=PL_Mf7E0DfF04Nn1JGoxmKg0NZpooFFyI2&index=9)
+  * [Word Cloud - amCharts](https://www.amcharts.com/demos/word-cloud/)
 
 ## YouTube Playlist
 
