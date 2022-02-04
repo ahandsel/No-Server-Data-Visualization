@@ -1,0 +1,6 @@
+// Order matters when inserting CDN URLs into Kintone App settings
+
+https://cdn.amcharts.com/lib/4/core.js
+https://cdn.amcharts.com/lib/4/charts.js
+https://cdn.amcharts.com/lib/4/plugins/wordCloud.js
+https://cdn.amcharts.com/lib/4/themes/animated.js
