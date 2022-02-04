@@ -1,4 +1,4 @@
-# No Server Data Visualization: Build a Bar Chart Race Project!
+# Build a Bar Chart Race Project
 Thank you for attending our **Kintone x Bar Chart Race** workshop!
 
 ## amCharts & Kintone References

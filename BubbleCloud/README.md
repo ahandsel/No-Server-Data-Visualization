@@ -1,4 +1,4 @@
-# No Server Data Visualization: Build a Bubble Cloud Project!
+# Build a Bubble Cloud Project
 
 Use the CSV file, CDN URLs, visualization.js, and PDF files in this folder for the workshop's hands-on section!
 
